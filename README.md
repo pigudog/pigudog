@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on NGS data analysis.
+- 🌱 I’m currently learning R/linux/python languages and bioinformatic skills.
+- 😄 I’m looking forward to developing some R packgaes for visualization.
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pigudog&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pigudog&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pigudog&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+
