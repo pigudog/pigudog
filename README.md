@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pigudog&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pigudog&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
