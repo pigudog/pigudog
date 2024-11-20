@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on NGS data analysis.
+- 🔭 I’m currently working on single-cell, spatial multiomics related research.
 - 🌱 I’m currently learning R/linux/python languages and bioinformatic skills.
 - 😄 I’m looking forward to developing some R packgaes for visualization.
 
